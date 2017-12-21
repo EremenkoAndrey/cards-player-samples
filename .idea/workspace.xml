@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0105a179-d039-4a5a-a89e-4a4dae27db69" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/player-ntv/page2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/player-ntv/page3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player-ntv/page.html" afterPath="$PROJECT_DIR$/player-ntv/page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player/page.html" afterPath="$PROJECT_DIR$/player/page.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -41,12 +42,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/player-ntv/page2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="873">
+            <state relative-caret-position="1156">
               <caret line="2197" column="7" lean-forward="false" selection-start-line="2197" selection-start-column="7" selection-end-line="2197" selection-end-column="7" />
-              <folding />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#49200#54917#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#11;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#noscript#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1513850143327" expanded="true" signature="45252:45262" ph="..." />
+                <marker date="1513850143327" expanded="true" signature="46183:46196" ph="..." />
+                <marker date="1513850143327" expanded="true" signature="46211:47721" ph="data:" />
+                <marker date="1513850143327" expanded="true" signature="48002:48612" ph="data:" />
+                <marker date="1513850143327" expanded="true" signature="66063:66069" ph=" " />
+                <marker date="1513850143327" expanded="true" signature="66167:66173" ph="€" />
+                <marker date="1513850143327" expanded="true" signature="66187:66193" ph=" " />
+                <marker date="1513850143327" expanded="true" signature="67499:67505" ph=" " />
+                <marker date="1513850143327" expanded="true" signature="67505:67510" ph="°" />
+                <marker date="1513850143327" expanded="true" signature="97472:97490" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +77,17 @@
         <entry file="file://$PROJECT_DIR$/player-ntv/page.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page3.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/player-ntv/page3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -79,9 +111,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/player-ntv/page.html" />
-        <option value="$PROJECT_DIR$/player/page.html" />
         <option value="$PROJECT_DIR$/player-ntv/page2.html" />
+        <option value="$PROJECT_DIR$/player/page.html" />
+        <option value="$PROJECT_DIR$/player-ntv/page.html" />
+        <option value="$PROJECT_DIR$/player-ntv/page3.html" />
       </list>
     </option>
   </component>
@@ -117,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,7 +172,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -181,12 +214,13 @@
       <option name="presentableId" value="Default" />
       <updated>1513765538454</updated>
       <workItem from="1513765539732" duration="2111000" />
-      <workItem from="1513848884164" duration="1259000" />
+      <workItem from="1513848884164" duration="1862000" />
+      <workItem from="1513852669247" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3370000" />
+    <option name="totallyTimeSpent" value="4013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1936" height="1160" extended-state="0" />
@@ -221,6 +255,70 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player-ntv/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player_streaming/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player-ntv/page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59319">
+          <caret line="2197" column="7" lean-forward="false" selection-start-line="2197" selection-start-column="7" selection-end-line="2197" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#49200#54917#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#11;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#noscript#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1513850143327" expanded="true" signature="45252:45262" ph="..." />
+            <marker date="1513850143327" expanded="true" signature="46183:46196" ph="..." />
+            <marker date="1513850143327" expanded="true" signature="46211:47721" ph="data:" />
+            <marker date="1513850143327" expanded="true" signature="48002:48612" ph="data:" />
+            <marker date="1513850143327" expanded="true" signature="66063:66069" ph=" " />
+            <marker date="1513850143327" expanded="true" signature="66167:66173" ph="€" />
+            <marker date="1513850143327" expanded="true" signature="66187:66193" ph=" " />
+            <marker date="1513850143327" expanded="true" signature="67499:67505" ph=" " />
+            <marker date="1513850143327" expanded="true" signature="67505:67510" ph="°" />
+            <marker date="1513850143327" expanded="true" signature="97472:97490" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -285,15 +383,44 @@
     <entry file="file://$PROJECT_DIR$/player-ntv/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/player-ntv/page2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="873">
+        <state relative-caret-position="1156">
           <caret line="2197" column="7" lean-forward="false" selection-start-line="2197" selection-start-column="7" selection-end-line="2197" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#49200#54917#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#11;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#noscript#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1513850143327" expanded="true" signature="45252:45262" ph="..." />
+            <marker date="1513850143327" expanded="true" signature="46183:46196" ph="..." />
+            <marker date="1513850143327" expanded="true" signature="46211:47721" ph="data:" />
+            <marker date="1513850143327" expanded="true" signature="48002:48612" ph="data:" />
+            <marker date="1513850143327" expanded="true" signature="66063:66069" ph=" " />
+            <marker date="1513850143327" expanded="true" signature="66167:66173" ph="€" />
+            <marker date="1513850143327" expanded="true" signature="66187:66193" ph=" " />
+            <marker date="1513850143327" expanded="true" signature="67499:67505" ph=" " />
+            <marker date="1513850143327" expanded="true" signature="67505:67510" ph="°" />
+            <marker date="1513850143327" expanded="true" signature="97472:97490" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player-ntv/page3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>
